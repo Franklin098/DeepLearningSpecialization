@@ -7,3 +7,17 @@ My university sponsored Coursera courses for a few months, I jumped at the chanc
 Personally, I really enjoy the programming assessments in Jupiter Notebooks.
 
 The quality of these courses is very high, they contain very interesting lessons about Deep Learning Concepts in combination with powerful programming assessments to get hands-on experience and put in practice the important concepts.
+
+![](./images/image1.png)
+
+# Content
+
+Course 1 : Neural Networks and Deep Learning
+</br>
+Course 2 : Improving Neural Networks - Hyperparameter tuning, regularization and optimization.
+</br>
+Course 3 : Structuring Machine Learning Projects (no labs, only theory course)
+</br>
+Course 4 : Convolutional Neural Networks
+</br>
+Course 5 : Sequence Models
