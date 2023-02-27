@@ -45,6 +45,6 @@ Building a Convolutional Neural Network form Scratch:
 <a href="https://github.com/Franklin098/DeepLearningSpecialization/blob/main/4%20Convolutional%20Neural%20Networks/1%20CNN%20from%20Scratch%20/Convolution_model_Step_by_Step_v2a.ipynb" target="_blank">GitHub - Jupiter Notebook
 </a>
 
-Image Style Transfer Neural Network form Scratch:
+Image Style Transfer with a CNN:
 <a href="https://github.com/Franklin098/DeepLearningSpecialization/blob/main/4%20Convolutional%20Neural%20Networks/Art%20Generation%20with%20Neural%20Style%20Transfer/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb" target="_blank">GitHub - Jupiter Notebook
 </a>
