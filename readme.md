@@ -14,14 +14,37 @@ The quality of these courses is very high, they contain very interesting lessons
 
 ![](./images/image1.png)
 
-# Content
+### My Course Notes
 
-Course 1 : Neural Networks and Deep Learning
+<a href="https://drive.google.com/drive/folders/1rWlKXz5mQEmuN-QjGAPQ-dmpp1DXnv1G?usp=sharing" target="_blank">
+Notes Course 1 & 2 : Neural Networks and Deep Learning / Hyperparameter tuning, regularization and optimization.
+</a>
+
 </br>
-Course 2 : Improving Neural Networks - Hyperparameter tuning, regularization and optimization.
 </br>
-Course 3 : Structuring Machine Learning Projects (no labs, only theory course)
+
+<a href="https://drive.google.com/drive/folders/10dbOMvje74JfD4h0Tf-uLWsumk7MHY5k?usp=sharing" target="_blank">Notes Course 3 : Structuring Machine Learning Projects (no labs, only theory course)
+</a>
 </br>
-Course 4 : Convolutional Neural Networks
 </br>
-Course 5 : Sequence Models
+<a href="https://drive.google.com/drive/folders/1DeUCeB4aw0jRUWfui4bkXHRzjSEaaNYN?usp=sharing" target="_blank">
+Notes Course 4 : Convolutional Neural Networks
+</a>
+
+<a href="" target="_blank">
+Notes Course 5 : Sequence Models
+</a>
+
+## Favorite Coding Assignments
+
+Building a Neural Network form Scratch:
+<a href="https://github.com/Franklin098/DeepLearningSpecialization/blob/main/1%20Neural%20Networks%20and%20Deep%20Learning%20/4%20Deep%20Neural%20Network/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb" target="_blank">GitHub - Jupiter Notebook
+</a>
+
+Building a Convolutional Neural Network form Scratch:
+<a href="https://github.com/Franklin098/DeepLearningSpecialization/blob/main/4%20Convolutional%20Neural%20Networks/1%20CNN%20from%20Scratch%20/Convolution_model_Step_by_Step_v2a.ipynb" target="_blank">GitHub - Jupiter Notebook
+</a>
+
+Image Style Transfer Neural Network form Scratch:
+<a href="https://github.com/Franklin098/DeepLearningSpecialization/blob/main/4%20Convolutional%20Neural%20Networks/Art%20Generation%20with%20Neural%20Style%20Transfer/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb" target="_blank">GitHub - Jupiter Notebook
+</a>
