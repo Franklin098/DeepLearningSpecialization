@@ -1,5 +1,9 @@
 # My Completed Programming Assessments from Coursera Deep Learning Specialization.
 
+Specialization Certificate:
+</br>
+https://www.coursera.org/account/accomplishments/specialization/4BMLTZ5RE42E
+
 I took the Deep Learning Specialization by Andre NG on the Coursera Platform.
 
 My university sponsored Coursera courses for a few months, I jumped at the chance and completed this specialization that had been under my care for a couple of time.
