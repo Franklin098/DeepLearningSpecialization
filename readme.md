@@ -31,7 +31,7 @@ Notes Course 1 & 2 : Neural Networks and Deep Learning / Hyperparameter tuning, 
 Notes Course 4 : Convolutional Neural Networks
 </a>
 
-<a href="" target="_blank">
+<a href="https://drive.google.com/drive/folders/1q3-egNqt3980kU1_rZSC4C8WU8Ui806L?usp=sharing" target="_blank">
 Notes Course 5 : Sequence Models
 </a>
 
